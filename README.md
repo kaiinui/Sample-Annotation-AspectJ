@@ -14,13 +14,9 @@ Code?
 // MainActivity.java
 
 public class MyActivity extends Activity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_my);
-
-        doNothing();
+    @OnClick(R.id.button)
+    public void onButtonClick() {
+        doNothing(); // DO NOTHING BUT SHOW A TOAST
     }
 
     @PotatoTip
