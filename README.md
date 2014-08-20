@@ -63,3 +63,8 @@ References
 
 - https://github.com/JakeWharton/hugo
 - https://github.com/uPhyca/gradle-android-aspectj-plugin
+
+ちなみに (Japanese)
+---
+
+Objective-C でもアスペクト黒魔術したいときはこいつを使います https://github.com/steipete/Aspects
