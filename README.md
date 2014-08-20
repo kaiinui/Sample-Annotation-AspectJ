@@ -58,3 +58,8 @@ public class PotatoAspect {
 }
 ```
 
+References
+---
+
+- https://github.com/JakeWharton/hugo
+- https://github.com/uPhyca/gradle-android-aspectj-plugin
