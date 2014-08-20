@@ -11,7 +11,7 @@ Code?
 ---
 
 ```java
-// MainActivity.java
+// MyActivity.java
 
 public class MyActivity extends Activity {
     @OnClick(R.id.button)
